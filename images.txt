@@ -1,6 +1,7 @@
 nginx
 mysql:8.0
 openjdk:17-jdk
+tiangolo/uvicorn-gunicorn-fastapi:python3.9
 redis:7.0
 python:3.9
 #支持私库
