@@ -1,5 +1,6 @@
 nginx
 mysql:8.0
+openjdk:17-jdk
 redis:7.0
 python:3.9
 #支持私库
