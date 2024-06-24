@@ -1,8 +1,9 @@
 #nginx
 #mysql:8.0
 #openjdk:17-jdk
-tiangolo/uvicorn-gunicorn-fastapi
+#tiangolo/uvicorn-gunicorn-fastapi
 #redis:7.0
+canal/canal-server:1.1.7
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
