@@ -1,6 +1,7 @@
-nginx
-mysql:8.0
-elasticsearch:8.8.1
-node:16.20.0-alpine3.18
-golang:alpine
-rabbitmq
+#nginx
+#mysql:8.0
+#elasticsearch:8.8.1
+#node:16.20.0-alpine3.18
+#golang:alpine
+#rabbitmq
+alpine:latest
