@@ -4,4 +4,5 @@
 #node:16.20.0-alpine3.18
 #golang:alpine
 #rabbitmq
-alpine:latest
+#alpine:latest
+mongodb:4.0.9
