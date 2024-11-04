@@ -5,4 +5,6 @@
 #golang:alpine
 #rabbitmq
 #alpine:latest
-mongodb:4.0.9
+#mongodb:4.0.9
+openjdk:8-jdk-alpine
+mongo:5.0
